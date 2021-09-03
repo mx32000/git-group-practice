@@ -9,3 +9,5 @@ HELLO, it is I!
 More changes to the read me
 
 sally sells seashells by the seashore.
+
+guess it's time for some cOnFliCt
